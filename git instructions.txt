@@ -1,0 +1,11 @@
+# do the below in git bash 
+cd /H/Showcase_Floop
+
+#do this to pull all changes
+git pull
+
+
+# do this to push changes to github
+git add .
+git commit -m "your message goes here"
+git push
