@@ -1,5 +1,5 @@
 button.css3button {
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: font-family: 'Roboto', sans-serif;
 	font-size: 14px;
 	color: #ffffff;
 	padding: 10px 20px;
@@ -31,4 +31,12 @@ button.css3button {
 	text-shadow:
 		0px -1px 0px rgba(000,000,000,1),
 		0px 1px 0px rgba(255,255,255,0.2);
+	float: left;
 }
+ body {
+	 background-repeat: no-repeat; 
+ }
+ p{
+	 color: #afbcba;
+	 font-family: 'Audiowide', cursive;
+ }
