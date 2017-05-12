@@ -16,9 +16,9 @@
    id="svg8"
    inkscape:version="0.92.0 r15299"
    sodipodi:docname="Background.svg"
-   inkscape:export-filename="H:\showcase\Background.png"
-   inkscape:export-xdpi="28.938993"
-   inkscape:export-ydpi="28.938993">
+   inkscape:export-filename="H:\showcase\background.png"
+   inkscape:export-xdpi="28.938999"
+   inkscape:export-ydpi="28.938999">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -30,7 +30,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.18"
      inkscape:cx="1495.0905"
-     inkscape:cy="2314.8047"
+     inkscape:cy="3017.6473"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -57,13 +57,14 @@
      id="layer1">
     <rect
        id="rect3682"
-       width="1250"
+       width="485.64813"
        height="790.09155"
-       x="-213.87144"
+       x="225.63087"
        y="-740.89154"
-       style="fill:#000000;stroke-width:1.3276757"
+       style="fill:#000000;stroke-width:0.82755685"
        inkscape:export-xdpi="28.938993"
-       inkscape:export-ydpi="28.938993" />
+       inkscape:export-ydpi="28.938993"
+       inkscape:export-filename="C:\Users\jeveritt\background.png" />
     <rect
        style="fill:#cccccc;stroke-width:0.2407174"
        id="rect3757"
@@ -74,7 +75,8 @@
        ry="7.1263242"
        transform="matrix(0.75772987,-0.65256835,0.66187001,0.74961863,0,0)"
        inkscape:export-xdpi="28.938993"
-       inkscape:export-ydpi="28.938993" />
+       inkscape:export-ydpi="28.938993"
+       inkscape:export-filename="C:\Users\jeveritt\background.png" />
     <rect
        transform="matrix(0.11375724,-0.99350858,0.9938212,0.11099285,0,0)"
        ry="7.1755471"
@@ -85,7 +87,8 @@
        id="rect3759"
        style="fill:#cccccc;stroke-width:0.24070871"
        inkscape:export-xdpi="28.938993"
-       inkscape:export-ydpi="28.938993" />
+       inkscape:export-ydpi="28.938993"
+       inkscape:export-filename="C:\Users\jeveritt\background.png" />
     <rect
        style="fill:#cccccc;stroke-width:0.24071522"
        id="rect3761"
@@ -96,7 +99,8 @@
        ry="7.1099906"
        transform="matrix(0.86956625,-0.4938163,0.50314984,0.86419919,0,0)"
        inkscape:export-xdpi="28.938993"
-       inkscape:export-ydpi="28.938993" />
+       inkscape:export-ydpi="28.938993"
+       inkscape:export-filename="C:\Users\jeveritt\background.png" />
     <rect
        transform="matrix(0.32327655,-0.94630454,0.94871741,0.3161254,0,0)"
        ry="7.1676321"
@@ -107,7 +111,8 @@
        id="rect3763"
        style="fill:#cccccc;stroke-width:0.24071167"
        inkscape:export-xdpi="28.938993"
-       inkscape:export-ydpi="28.938993" />
+       inkscape:export-ydpi="28.938993"
+       inkscape:export-filename="C:\Users\jeveritt\background.png" />
     <rect
        style="fill:#cccccc;stroke-width:0.24070983"
        id="rect3765"
@@ -118,7 +123,8 @@
        ry="7.1727653"
        transform="matrix(-0.21255729,-0.97714861,0.97822342,-0.20755465,0,0)"
        inkscape:export-xdpi="28.938993"
-       inkscape:export-ydpi="28.938993" />
+       inkscape:export-ydpi="28.938993"
+       inkscape:export-filename="C:\Users\jeveritt\background.png" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -132,7 +138,8 @@
        rx="103.54578"
        ry="102.2638"
        inkscape:export-xdpi="28.938993"
-       inkscape:export-ydpi="28.938993" />
+       inkscape:export-ydpi="28.938993"
+       inkscape:export-filename="C:\Users\jeveritt\background.png" />
     <ellipse
        style="fill:#000000;stroke-width:0.27790862"
        id="path3733"
@@ -141,7 +148,8 @@
        rx="76.90242"
        ry="75.95031"
        inkscape:export-xdpi="28.938993"
-       inkscape:export-ydpi="28.938993" />
+       inkscape:export-ydpi="28.938993"
+       inkscape:export-filename="C:\Users\jeveritt\background.png" />
     <path
        id="rect3686"
        style="fill:#ffffff;stroke-width:0.28005558"
@@ -149,7 +157,8 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccsc"
        inkscape:export-xdpi="28.938993"
-       inkscape:export-ydpi="28.938993" />
+       inkscape:export-ydpi="28.938993"
+       inkscape:export-filename="C:\Users\jeveritt\background.png" />
     <ellipse
        cy="-617.78876"
        cx="349.3526"
@@ -158,7 +167,8 @@
        rx="58.736485"
        ry="58.009281"
        inkscape:export-xdpi="28.938993"
-       inkscape:export-ydpi="28.938993" />
+       inkscape:export-ydpi="28.938993"
+       inkscape:export-filename="C:\Users\jeveritt\background.png" />
     <rect
        style="fill:#b3b3b3;stroke-width:0.24071601"
        id="rect3742"
@@ -170,7 +180,8 @@
        inkscape:transform-center-x="0.91749557"
        inkscape:transform-center-y="-1.9482051"
        inkscape:export-xdpi="28.938993"
-       inkscape:export-ydpi="28.938993" />
+       inkscape:export-ydpi="28.938993"
+       inkscape:export-filename="C:\Users\jeveritt\background.png" />
     <rect
        inkscape:transform-center-y="1.4875862"
        inkscape:transform-center-x="1.5698529"
@@ -182,7 +193,8 @@
        id="rect3744"
        style="fill:#b3b3b3;stroke-width:0.24071707"
        inkscape:export-xdpi="28.938993"
-       inkscape:export-ydpi="28.938993" />
+       inkscape:export-ydpi="28.938993"
+       inkscape:export-filename="C:\Users\jeveritt\background.png" />
     <rect
        style="fill:#b3b3b3;stroke-width:0.24070831"
        id="rect3746"
@@ -194,7 +206,8 @@
        inkscape:transform-center-x="2.1428598"
        inkscape:transform-center-y="-0.37098649"
        inkscape:export-xdpi="28.938993"
-       inkscape:export-ydpi="28.938993" />
+       inkscape:export-ydpi="28.938993"
+       inkscape:export-filename="C:\Users\jeveritt\background.png" />
     <ellipse
        ry="102.27207"
        rx="143.14838"
@@ -203,7 +216,8 @@
        id="ellipse3748"
        style="fill:#ffffff;stroke-width:0.36321566"
        inkscape:export-xdpi="28.938993"
-       inkscape:export-ydpi="28.938993" />
+       inkscape:export-ydpi="28.938993"
+       inkscape:export-filename="C:\Users\jeveritt\background.png" />
     <path
        sodipodi:nodetypes="ccsc"
        inkscape:connector-curvature="0"
@@ -211,7 +225,8 @@
        style="fill:#000000;stroke-width:0.21316406"
        id="path3752"
        inkscape:export-xdpi="28.938993"
-       inkscape:export-ydpi="28.938993" />
+       inkscape:export-ydpi="28.938993"
+       inkscape:export-filename="C:\Users\jeveritt\background.png" />
     <ellipse
        style="fill:#000000;stroke-width:0.34197667"
        id="ellipse3750"
@@ -220,7 +235,8 @@
        rx="134.7778"
        ry="96.291725"
        inkscape:export-xdpi="28.938993"
-       inkscape:export-ydpi="28.938993" />
+       inkscape:export-ydpi="28.938993"
+       inkscape:export-filename="C:\Users\jeveritt\background.png" />
     <ellipse
        style="fill:#ffffff;stroke-width:0.52704936"
        id="ellipse3769"
@@ -230,7 +246,8 @@
        ry="150.26376"
        transform="rotate(-90)"
        inkscape:export-xdpi="28.938993"
-       inkscape:export-ydpi="28.938993" />
+       inkscape:export-ydpi="28.938993"
+       inkscape:export-filename="C:\Users\jeveritt\background.png" />
     <ellipse
        ry="141.47711"
        rx="193.14999"
@@ -240,7 +257,8 @@
        style="fill:#000000;stroke-width:0.49623024"
        transform="rotate(-90)"
        inkscape:export-xdpi="28.938993"
-       inkscape:export-ydpi="28.938993" />
+       inkscape:export-ydpi="28.938993"
+       inkscape:export-filename="C:\Users\jeveritt\background.png" />
     <ellipse
        transform="rotate(-90)"
        style="fill:#ffffff;stroke-width:0.31917986"
@@ -250,7 +268,8 @@
        rx="156.94432"
        ry="72.034363"
        inkscape:export-xdpi="28.938993"
-       inkscape:export-ydpi="28.938993" />
+       inkscape:export-ydpi="28.938993"
+       inkscape:export-filename="C:\Users\jeveritt\background.png" />
     <ellipse
        ry="47.594673"
        rx="131.71008"
@@ -260,7 +279,8 @@
        style="fill:#ffffff;stroke-width:0.23767385"
        transform="rotate(-90)"
        inkscape:export-xdpi="28.938993"
-       inkscape:export-ydpi="28.938993" />
+       inkscape:export-ydpi="28.938993"
+       inkscape:export-filename="C:\Users\jeveritt\background.png" />
     <ellipse
        transform="rotate(-90)"
        style="fill:#000000;stroke-width:0.21313211"
@@ -270,7 +290,8 @@
        rx="118.10995"
        ry="42.680134"
        inkscape:export-xdpi="28.938993"
-       inkscape:export-ydpi="28.938993" />
+       inkscape:export-ydpi="28.938993"
+       inkscape:export-filename="C:\Users\jeveritt\background.png" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -284,7 +305,8 @@
        rx="49.086601"
        ry="48.478867"
        inkscape:export-xdpi="28.938993"
-       inkscape:export-ydpi="28.938993" />
+       inkscape:export-ydpi="28.938993"
+       inkscape:export-filename="C:\Users\jeveritt\background.png" />
     <ellipse
        cy="-587.73273"
        cx="457.01019"
@@ -293,7 +315,8 @@
        rx="39.789894"
        ry="39.297264"
        inkscape:export-xdpi="28.938993"
-       inkscape:export-ydpi="28.938993" />
+       inkscape:export-ydpi="28.938993"
+       inkscape:export-filename="C:\Users\jeveritt\background.png" />
     <ellipse
        style="fill:#00ff00;fill-opacity:1;stroke-width:0.18939897"
        id="circle4516"
@@ -302,7 +325,8 @@
        rx="30.493187"
        ry="30.115658"
        inkscape:export-xdpi="28.938993"
-       inkscape:export-ydpi="28.938993" />
+       inkscape:export-ydpi="28.938993"
+       inkscape:export-filename="C:\Users\jeveritt\background.png" />
     <ellipse
        cy="-587.73273"
        cx="457.01019"
@@ -311,7 +335,8 @@
        rx="20.266813"
        ry="20.015894"
        inkscape:export-xdpi="28.938993"
-       inkscape:export-ydpi="28.938993" />
+       inkscape:export-ydpi="28.938993"
+       inkscape:export-filename="C:\Users\jeveritt\background.png" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke-width:0.29888713"
        id="rect4524"
@@ -321,7 +346,8 @@
        y="-59.981091"
        ry="9.117487"
        inkscape:export-xdpi="28.938993"
-       inkscape:export-ydpi="28.938993" />
+       inkscape:export-ydpi="28.938993"
+       inkscape:export-filename="C:\Users\jeveritt\background.png" />
     <ellipse
        style="fill:#ffffff;fill-opacity:1;stroke-width:0.34118751"
        id="path4528"
@@ -331,7 +357,8 @@
        ry="14.731646"
        transform="matrix(0.98242711,-0.18664663,0.21057518,0.97757767,0,0)"
        inkscape:export-xdpi="28.938993"
-       inkscape:export-ydpi="28.938993" />
+       inkscape:export-ydpi="28.938993"
+       inkscape:export-filename="C:\Users\jeveritt\background.png" />
     <ellipse
        transform="matrix(0.99918445,-0.04037857,-0.00649248,0.99997892,0,0)"
        ry="15.517541"
@@ -341,7 +368,8 @@
        id="ellipse4530"
        style="fill:#ffffff;fill-opacity:1;stroke-width:0.35036159"
        inkscape:export-xdpi="28.938993"
-       inkscape:export-ydpi="28.938993" />
+       inkscape:export-ydpi="28.938993"
+       inkscape:export-filename="C:\Users\jeveritt\background.png" />
     <ellipse
        style="fill:#ffffff;fill-opacity:1;stroke-width:0.35033956"
        id="ellipse4532"
@@ -351,7 +379,8 @@
        ry="15.38014"
        transform="matrix(0.97353719,0.22852865,-0.1853607,0.98267055,0,0)"
        inkscape:export-xdpi="28.938993"
-       inkscape:export-ydpi="28.938993" />
+       inkscape:export-ydpi="28.938993"
+       inkscape:export-filename="C:\Users\jeveritt\background.png" />
     <ellipse
        transform="matrix(0.98242711,-0.18664663,0.21057518,0.97757767,0,0)"
        ry="12.802457"
@@ -361,7 +390,8 @@
        id="ellipse4534"
        style="fill:#000000;fill-opacity:1;stroke-width:0.29650718"
        inkscape:export-xdpi="28.938993"
-       inkscape:export-ydpi="28.938993" />
+       inkscape:export-ydpi="28.938993"
+       inkscape:export-filename="C:\Users\jeveritt\background.png" />
     <ellipse
        style="fill:#000000;fill-opacity:1;stroke-width:0.30447984"
        id="ellipse4536"
@@ -371,7 +401,8 @@
        ry="13.485434"
        transform="matrix(0.99918445,-0.04037857,-0.00649248,0.99997892,0,0)"
        inkscape:export-xdpi="28.938993"
-       inkscape:export-ydpi="28.938993" />
+       inkscape:export-ydpi="28.938993"
+       inkscape:export-filename="C:\Users\jeveritt\background.png" />
     <ellipse
        transform="matrix(0.97353719,0.22852865,-0.1853607,0.98267055,0,0)"
        ry="13.366027"
@@ -381,7 +412,8 @@
        id="ellipse4538"
        style="fill:#000000;fill-opacity:1;stroke-width:0.30446073"
        inkscape:export-xdpi="28.938993"
-       inkscape:export-ydpi="28.938993" />
+       inkscape:export-ydpi="28.938993"
+       inkscape:export-filename="C:\Users\jeveritt\background.png" />
     <rect
        ry="7.3366876"
        y="-51.967564"
@@ -391,6 +423,7 @@
        id="rect4540"
        style="fill:#000000;fill-opacity:1;stroke-width:0.24050942"
        inkscape:export-xdpi="28.938993"
-       inkscape:export-ydpi="28.938993" />
+       inkscape:export-ydpi="28.938993"
+       inkscape:export-filename="C:\Users\jeveritt\background.png" />
   </g>
 </svg>
